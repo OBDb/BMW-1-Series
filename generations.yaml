@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation (E87/E81/E82/E88)"
+    start_year: 2004
+    end_year: 2011
+    description: "The original BMW 1 Series was offered in hatchback (E87 five-door, E81 three-door), coupe (E82), and convertible (E88) body styles. It was notable for being the only rear-wheel drive vehicle in its class, featuring longitudinally-mounted engines ranging from 1.6L to 3.0L, including the high-performance 135i with a twin-turbo straight-six. The 1 Series brought BMW's driving dynamics to the compact premium segment, though interior space was compromised by the rear-wheel drive layout."
+
+  - name: "Second Generation (F20/F21)"
+    start_year: 2011
+    end_year: 2019
+    description: "The second-generation 1 Series continued as a rear-wheel drive hatchback offered in three-door (F21) and five-door (F20) body styles. The range included models from the efficient 114i to the high-performance M135i/M140i with up to 340 HP. This generation introduced turbocharged engines across the range, and added more technology including BMW's iDrive system. A facelift in 2015 significantly updated the styling and interior. The coupe and convertible models were spun off into the 2 Series."
+
+  - name: "Third Generation (F40)"
+    start_year: 2019
+    end_year: null
+    description: "The current F40 1 Series marks a significant shift for the model, adopting a front-wheel drive architecture based on BMW's UKL2 platform. Available exclusively as a five-door hatchback, it offers improved interior space and packaging efficiency compared to its predecessors. Engine options range from 1.5L three-cylinder to 2.0L four-cylinder units, with the range-topping M135i featuring a 306 HP turbocharged four-cylinder and all-wheel drive. Despite the platform change, BMW worked to maintain engaging driving dynamics through sophisticated chassis tuning and electronic systems. The interior features BMW's latest technology including digital instrumentation and advanced driver assistance systems."
