@@ -8,4 +8,4 @@ test_cases:
   response: 660F10562D112656F
 - expected_values:
     BMW_AAT: 13
-  response: 660F10562D1126A6B
+  response: 660F10562D1126A6A
