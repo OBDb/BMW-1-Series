@@ -14,7 +14,7 @@ generations:
 
   - name: "Third Generation (F40)"
     start_year: 2019
-    end_year: 2023
+    end_year: 2024
     description: "The third-generation F40 1 Series marked a significant shift for the model, adopting a front-wheel drive architecture based on BMW's UKL2 platform. Available exclusively as a five-door hatchback, it offered improved interior space and packaging efficiency compared to its predecessors. Engine options included turbocharged three-cylinder and four-cylinder units. The front-wheel drive configuration with an all-wheel drive option represented a major departure from earlier rear-wheel drive generations. BMW worked to maintain engaging driving dynamics through sophisticated chassis tuning and electronic systems."
 
   - name: "Fourth Generation (F70)"
