@@ -1,8 +1,11 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_1_Series"
+
 generations:
-  - name: "First Generation (E87/E81/E82/E88)"
+  - name: "First Generation (E81/E82/E87/E88)"
     start_year: 2004
-    end_year: 2011
-    description: "The original BMW 1 Series was offered in hatchback (E87 five-door, E81 three-door), coupe (E82), and convertible (E88) body styles. It was notable for being the only rear-wheel drive vehicle in its class, featuring longitudinally-mounted engines ranging from 1.6L to 3.0L, including the high-performance 135i with a twin-turbo straight-six. The 1 Series brought BMW's driving dynamics to the compact premium segment, though interior space was compromised by the rear-wheel drive layout."
+    end_year: 2013
+    description: "The original BMW 1 Series was offered in hatchback (E87 five-door, E81 three-door), coupe (E82), and convertible (E88) body styles. It was notable for being the only rear-wheel drive vehicle in its class, featuring naturally aspirated and turbocharged engines ranging from four-cylinder to six-cylinder configurations. The 1 Series brought BMW's driving dynamics to the compact premium segment. This generation replaced the BMW 3 Series Compact as the entry-level model in the BMW range. The high-performance 1 Series M Coupé was also available in this generation."
 
   - name: "Second Generation (F20/F21)"
     start_year: 2011
@@ -11,5 +14,10 @@ generations:
 
   - name: "Third Generation (F40)"
     start_year: 2019
+    end_year: 2024
+    description: "The third-generation F40 1 Series marked a significant shift for the model, adopting a front-wheel drive architecture based on BMW's UKL2 platform. Available exclusively as a five-door hatchback, it offered improved interior space and packaging efficiency compared to its predecessors. Engine options included turbocharged three-cylinder and four-cylinder units. The front-wheel drive configuration with an all-wheel drive option represented a major departure from earlier rear-wheel drive generations. BMW worked to maintain engaging driving dynamics through sophisticated chassis tuning and electronic systems."
+
+  - name: "Fourth Generation (F70)"
+    start_year: 2024
     end_year: null
-    description: "The current F40 1 Series marks a significant shift for the model, adopting a front-wheel drive architecture based on BMW's UKL2 platform. Available exclusively as a five-door hatchback, it offers improved interior space and packaging efficiency compared to its predecessors. Engine options range from 1.5L three-cylinder to 2.0L four-cylinder units, with the range-topping M135i featuring a 306 HP turbocharged four-cylinder and all-wheel drive. Despite the platform change, BMW worked to maintain engaging driving dynamics through sophisticated chassis tuning and electronic systems. The interior features BMW's latest technology including digital instrumentation and advanced driver assistance systems."
+    description: "The fourth-generation F70 1 Series was officially unveiled on 4 June 2024 and represents a heavy refresh of the F40 rather than a complete redesign. It continues to use the front-wheel drive based UKL2 platform and is available exclusively as a five-door hatchback. Engine options continue with turbocharged three-cylinder and four-cylinder units, with the M135i featuring enhanced performance. Despite its different internal codename, the F70 shares significant continuity with its F40 predecessor while incorporating modern styling updates and enhanced technology features including digital instrumentation and advanced driver assistance systems."
