@@ -124,3 +124,6 @@ unsupported_commands_by_ecu:
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
   - 7E0.0144:EQ_RAT
   - 7E0.015C:EOT
+  "7E7":
+  - 7E7.7EF.0104
+  - 7E7.7EF.0105
