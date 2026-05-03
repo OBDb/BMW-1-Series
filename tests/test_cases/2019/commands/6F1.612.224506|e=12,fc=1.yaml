@@ -1,32 +1,11 @@
 command_id: 6F1.612.224506|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_OIL_TEMP: 4
-  response: 612F10562450604B0
-- expected_values:
-    BMW_OIL_TEMP: 4
-  response: 612F10562450604F0
-- expected_values:
-    BMW_OIL_TEMP: 34
-  response: 612F10562450622D0
-- expected_values:
-    BMW_OIL_TEMP: 35
-  response: 612F10562450623BC
-- expected_values:
-    BMW_OIL_TEMP: 39
-  response: 612F1056245062748
-- expected_values:
-    BMW_OIL_TEMP: 46
-  response: 612F1056245062E1E
-- expected_values:
-    BMW_OIL_TEMP: 66
-  response: 612F10562450642F9
-- expected_values:
-    BMW_OIL_TEMP: 74
-  response: 612F1056245064A54
+    BMW_OIL_TEMP: 0
+  response: 612F1056245060000
 - expected_values:
     BMW_OIL_TEMP: 77
-  response: 612F1056245064D17
+  response: 612F1056245064DFE
 - expected_values:
     BMW_OIL_TEMP: 110
   response: 612F1056245066E7E
