@@ -1,0 +1,8 @@
+command_id: 6F1.612.2257C3|e=12,fc=1
+test_cases:
+- expected_values:
+    BMW_OIL_TEMP_ALT: 97.3
+  response: 612F1056257C303CD
+- expected_values:
+    BMW_OIL_TEMP_ALT: 101.7
+  response: 612F1056257C303F9
