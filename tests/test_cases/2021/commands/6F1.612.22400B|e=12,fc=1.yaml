@@ -9,9 +9,9 @@ test_cases:
 - expected_values:
     BMW_LAMBDA: 0.39
   response: |-
-    612F1100F62400B00DC
-    612F12100DB00270092
-    612F122F6EA0008FFFF
+    612F1100F62400B00D5
+    612F12100D600270093
+    612F122F6E30008FFFF
 - expected_values:
     BMW_LAMBDA: 0.59
   response: |-
@@ -31,12 +31,6 @@ test_cases:
     612F12101BB034F0092
     612F122F7D70008FFFF
 - expected_values:
-    BMW_LAMBDA: 1.18
-  response: |-
-    612F1100F62400B01F0
-    612F12101ED0076008A
-    612F122F7FC0008FFFF
-- expected_values:
     BMW_LAMBDA: 0.59
   response: |-
     612F1100F62400B01F2
@@ -54,6 +48,12 @@ test_cases:
     612F1100F62400B0490
     612F121045FFFB20085
     612F122FA6E0008FFFF
+- expected_values:
+    BMW_LAMBDA: 0.78
+  response: |-
+    612F1100F62400B04E5
+    612F12104EF004E0092
+    612F122FAFE0008FFFF
 - expected_values:
     BMW_LAMBDA: 0.59
   response: |-
@@ -84,6 +84,12 @@ test_cases:
     612F1100F62400B09EC
     612F12109E80000007C
     612F12200030008FFFF
+- expected_values:
+    BMW_LAMBDA: 2
+  response: |-
+    612F1100F62400B09EC
+    612F12109E8FFFF0084
+    612F122FFF70008FFFF
 - expected_values:
     BMW_LAMBDA: 0
   response: |-
