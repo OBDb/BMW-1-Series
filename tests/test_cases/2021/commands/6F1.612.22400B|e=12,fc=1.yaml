@@ -63,6 +63,12 @@ test_cases:
 - expected_values:
     BMW_LAMBDA: 2
   response: |-
+    612F1100F62400B0594
+    612F12105B80ADA008F
+    612F122FBC70008FFFF
+- expected_values:
+    BMW_LAMBDA: 2
+  response: |-
     612F1100F62400B08E7
     612F12108F803D90085
     612F122FF140008FFFF
@@ -72,12 +78,6 @@ test_cases:
     612F1100F62400B0904
     612F121090F02B10085
     612F122FF1E0008FFFF
-- expected_values:
-    BMW_LAMBDA: 0
-  response: |-
-    612F1100F62400B09EC
-    612F12109E50000007F
-    612F122FFF40008FFFF
 - expected_values:
     BMW_LAMBDA: 0
   response: |-
@@ -95,4 +95,4 @@ test_cases:
   response: |-
     612F1100F62400B09EC
     612F12109F500000079
-    612F122000E0008FFFF
+    612F12200030008FFFF
