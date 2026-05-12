@@ -139,3 +139,5 @@ unsupported_commands_by_ecu:
   - 7E0.0162:TQ_ACT
   - 7E0.019D:FUEL_RATE_ALT,VFUEL_RATE
   - 7E0.019E:EXH_RATE
+  "7E7":
+  - 7E7.7EF.0104
