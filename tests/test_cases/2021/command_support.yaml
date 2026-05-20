@@ -68,6 +68,7 @@ supported_commands_by_ecu:
   - 0143:LOAD_ABS
   - 0144:EQ_RAT
   - 0145:TP_R
+  - 7E0.012F:FLI
   "7E1":
   - 7E1.7E9.0101
   - 7E1.7E9.0104
@@ -128,7 +129,6 @@ unsupported_commands_by_ecu:
   - 7E0.011C:OBDSUP
   - 7E0.011F:RUNTM
   - 7E0.0121:MIL_DIST
-  - 7E0.012F:FLI
   - 7E0.0130:WARM_UPS
   - 7E0.0131:CLR_DIST
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
