@@ -4,8 +4,8 @@ test_cases:
     BMW_OIL_TEMP: 0
   response: 612F1056245060000
 - expected_values:
-    BMW_OIL_TEMP: 4
-  response: 612F10562450604FF
+    BMW_OIL_TEMP: 2
+  response: 612F10562450602FF
 - expected_values:
     BMW_OIL_TEMP: 112
   response: 612F105624506700E
