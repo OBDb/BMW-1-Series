@@ -1,6 +1,15 @@
 command_id: 6F1.618.22DA2A|e=18,fc=1
 test_cases:
 - expected_values:
+    BMW_TQ_CNVRT_RPM: 1136
+    BMW_TRANS_SHAFT_RPM: 1772
+  response: |-
+    618F10562DA2E0008
+    618F10562DA25007D
+    618F10562DA120074
+    618F1100762DA2A0470
+    618F12106ECFFFFFFFF
+- expected_values:
     BMW_TQ_CNVRT_RPM: 0
     BMW_TRANS_SHAFT_RPM: 0
   response: |-
