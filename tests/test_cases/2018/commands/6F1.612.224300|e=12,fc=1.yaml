@@ -4,5 +4,5 @@ test_cases:
     BMW_ET: 124.22
   response: 612F10462430085
 - expected_values:
-    BMW_ET: 219.36
-  response: 612F104624300CC
+    BMW_ET: 228.74
+  response: 612F104624300D3
