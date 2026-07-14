@@ -7,12 +7,6 @@ test_cases:
     660F1100B62D10D0001
     660F121665200016652
 - expected_values:
-    BMW_ODO_ALT: 91743
-    BMW_ODO_V2: 91743
-  response: |-
-    660F1100B62D10D0001
-    660F121665F0001665F
-- expected_values:
     BMW_ODO_ALT: 91984
     BMW_ODO_V2: 91984
   response: |-
@@ -30,3 +24,9 @@ test_cases:
   response: |-
     660F1100B62D10D0001
     660F121706E0001706E
+- expected_values:
+    BMW_ODO_ALT: 94335
+    BMW_ODO_V2: 94335
+  response: |-
+    660F1100B62D10D0001
+    660F121707F0001707F
