@@ -4,8 +4,8 @@ test_cases:
     BMW_OIL_TEMP_ALT: 0
   response: 612F1056257C30000
 - expected_values:
+    BMW_OIL_TEMP_ALT: 102.1
+  response: 612F1056257C303FD
+- expected_values:
     BMW_OIL_TEMP_ALT: 104.1
   response: 612F1056257C30411
-- expected_values:
-    BMW_OIL_TEMP_ALT: 122.5
-  response: 612F1056257C304C9
