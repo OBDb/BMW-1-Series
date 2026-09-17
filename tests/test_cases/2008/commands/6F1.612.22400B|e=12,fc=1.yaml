@@ -73,6 +73,12 @@ test_cases:
     612F12112B4FCF305CC
     612F12203390008000D
 - expected_values:
+    BMW_LAMBDA: 0
+  response: |-
+    612F1101162400B0983
+    612F12109810000070F
+    612F1221A060008002D
+- expected_values:
     BMW_LAMBDA: 1.53
   response: |-
     612F1101162400B0E2D
