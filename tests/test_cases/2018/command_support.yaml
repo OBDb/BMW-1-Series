@@ -1,7 +1,7 @@
 model_year: 2018
 supported_commands_by_ecu:
   "6F1":
-  - 6F1.612.22400B|e=12,fc=1:BMW_LAMBDA
+  - 6F1.612.22400B|e=12,fc=1:BMW_LAMBDA_V2
   - 6F1.612.224015|e=12,fc=1:BMW_IAT
   - 6F1.612.22411E|e=12,fc=1:BMW_COOLANT
   - 6F1.612.224300|e=12,fc=1:BMW_ET
