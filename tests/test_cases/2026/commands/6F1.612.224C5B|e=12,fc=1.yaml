@@ -1,7 +1,7 @@
 command_id: 6F1.612.224C5B|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_EGT_CALC: 25
+    1SERIES_EGT_CALC: 25
   response: |-
     612F1103B624C5B002F
     612F12100FA0027002F
