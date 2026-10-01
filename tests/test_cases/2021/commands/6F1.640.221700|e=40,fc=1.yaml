@@ -1,27 +1,27 @@
 command_id: 6F1.640.221700|e=40,fc=1
 test_cases:
 - expected_values:
-    BMW_ODO_2: 66186
+    1SERIES_ODO_2: 66186
   response: |-
     640F110076217000001
     640F121028AFFFFFFFF
 - expected_values:
-    BMW_ODO_2: 91775
+    1SERIES_ODO_2: 91775
   response: |-
     640F110076217000001
     640F121667FFFFFFFFF
 - expected_values:
-    BMW_ODO_2: 91792
+    1SERIES_ODO_2: 91792
   response: |-
     640F110076217000001
     640F1216690FFFFFFFF
 - expected_values:
-    BMW_ODO_2: 93889
+    1SERIES_ODO_2: 93889
   response: |-
     640F110076217000001
     640F1216EC1FFFFFFFF
 - expected_values:
-    BMW_ODO_2: 94318
+    1SERIES_ODO_2: 94318
   response: |-
     640F110076217000001
     640F121706EFFFFFFFF

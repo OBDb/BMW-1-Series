@@ -1,0 +1,38 @@
+command_id: 6F1.660.22D10D|e=60,fc=1,f=2012-
+test_cases:
+- expected_values:
+    1SERIES_ODO: 66191
+    1SERIES_ODO_ALT: 66191
+  response: |-
+    660F1100B62D10D0001
+    660F121028F0001028F
+- expected_values:
+    1SERIES_ODO: 91730
+    1SERIES_ODO_ALT: 91730
+  response: |-
+    660F1100B62D10D0001
+    660F121665200016652
+- expected_values:
+    1SERIES_ODO: 91984
+    1SERIES_ODO_ALT: 91984
+  response: |-
+    660F1100B62D10D0001
+    660F121675000016750
+- expected_values:
+    1SERIES_ODO: 93888
+    1SERIES_ODO_ALT: 93888
+  response: |-
+    660F1100B62D10D0001
+    660F1216EC000016EC0
+- expected_values:
+    1SERIES_ODO: 94318
+    1SERIES_ODO_ALT: 94318
+  response: |-
+    660F1100B62D10D0001
+    660F121706E0001706E
+- expected_values:
+    1SERIES_ODO: 94335
+    1SERIES_ODO_ALT: 94335
+  response: |-
+    660F1100B62D10D0001
+    660F121707F0001707F
