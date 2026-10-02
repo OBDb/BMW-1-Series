@@ -1,0 +1,23 @@
+command_id: 6F1.678.22D96B|e=78,fc=1,f=2011-
+test_cases:
+- expected_values:
+    1SERIES_IHX_AAT: 20
+  response: 678F10562D96B0078
+- expected_values:
+    1SERIES_IHX_AAT: 20.5
+  response: 678F10562D96B0079
+- expected_values:
+    1SERIES_IHX_AAT: 21
+  response: 678F10562D96B007A
+- expected_values:
+    1SERIES_IHX_AAT: 21.5
+  response: 678F10562D96B007B
+- expected_values:
+    1SERIES_IHX_AAT: 22.5
+  response: 678F10562D96B007D
+- expected_values:
+    1SERIES_IHX_AAT: 23
+  response: 678F10562D96B007E
+- expected_values:
+    1SERIES_IHX_AAT: 23.5
+  response: 678F10562D96B007F
