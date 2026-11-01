@@ -7,8 +7,8 @@ test_cases:
     1SERIES_EOP: 3.583
   response: 612F10562586F0DFF
 - expected_values:
-    1SERIES_EOP: 4.609
-  response: 612F10562586F1201
+    1SERIES_EOP: 4.352
+  response: 612F10562586F1100
 - expected_values:
     1SERIES_EOP: 10.578
   response: 612F10562586F2952
