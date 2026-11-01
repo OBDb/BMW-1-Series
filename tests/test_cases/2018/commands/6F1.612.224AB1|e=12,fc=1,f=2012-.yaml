@@ -4,8 +4,8 @@ test_cases:
     1SERIES_VSS2: 0
   response: 612F105624AB10000
 - expected_values:
-    1SERIES_VSS2: 23.01
-  response: 612F105624AB108FD
+    1SERIES_VSS2: 28.14
+  response: 612F105624AB10AFE
 - expected_values:
-    1SERIES_VSS2: 117.9
-  response: 612F105624AB12E0E
+    1SERIES_VSS2: 127.07
+  response: 612F105624AB131A3
