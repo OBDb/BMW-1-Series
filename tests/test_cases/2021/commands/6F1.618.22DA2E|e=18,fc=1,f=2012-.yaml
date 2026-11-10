@@ -4,9 +4,9 @@ test_cases:
     1SERIES_GEAR_SHIFT: PARK
   response: 618F10562DA2E0000
 - expected_values:
-    1SERIES_GEAR: DRIVE
     1SERIES_GEAR_SHIFT: DRIVE
-  response: 618F10562DA2E0303
+  response: 618F10562DA2E0404
 - expected_values:
     1SERIES_GEAR: DRIVE
+    1SERIES_GEAR_SHIFT: DRIVE
   response: 618F10562DA2E1003
