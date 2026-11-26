@@ -1,0 +1,14 @@
+command_id: 6F1.612.224408|e=12,fc=1,f=-2018
+test_cases:
+- expected_values:
+    1SERIES_EOT_DME: 66.3
+  response: 612F1056244080297
+- expected_values:
+    1SERIES_EOT_DME: 71.1
+  response: 612F10562440802C7
+- expected_values:
+    1SERIES_EOT_DME: 75.8
+  response: 612F10562440802F6
+- expected_values:
+    1SERIES_EOT_DME: 79.1
+  response: 612F1056244080317
