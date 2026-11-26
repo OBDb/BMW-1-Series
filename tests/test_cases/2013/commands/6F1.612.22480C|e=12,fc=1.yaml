@@ -1,0 +1,14 @@
+command_id: 6F1.612.22480C|e=12,fc=1
+test_cases:
+- expected_values:
+    1SERIES_LOAD_TGT: 12.70312
+  response: 612F10562480C021E
+- expected_values:
+    1SERIES_LOAD_TGT: 25.75781
+  response: 612F10562480C044B
+- expected_values:
+    1SERIES_LOAD_TGT: 39.77344
+  response: 612F10562480C06A1
+- expected_values:
+    1SERIES_LOAD_TGT: 50.55469
+  response: 612F10562480C086D
